@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
+id=Disable_Driver
+name=Disable rwProc Driver
 version=v3.5
 versionCode=17
-author=Zackptg5
-description=Magisk Module Template Extended
+author=dr3
+description=Disable rwProc and hwBp Driver
 updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
